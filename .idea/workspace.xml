@@ -12,6 +12,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="26JsI89bPYQpcTczEvuyLiKxNyN" />
@@ -110,6 +115,7 @@
       <workItem from="1647153208107" duration="378000" />
       <workItem from="1647156112418" duration="57000" />
       <workItem from="1647160363894" duration="109000" />
+      <workItem from="1647160528790" duration="308000" />
     </task>
     <task id="LOCAL-00001" summary="Revert &quot;test&quot;&#10;&#10;This reverts commit a8446dc5">
       <created>1647155889727</created>
@@ -118,7 +124,21 @@
       <option name="project" value="LOCAL" />
       <updated>1647155889727</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Revert &quot;test&quot;&#10;&#10;This reverts commit a8446dc5">
+      <created>1647160571382</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1647160571382</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Revert &quot;test&quot;&#10;&#10;This reverts commit a8446dc5">
+      <created>1647160715507</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1647160715507</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
